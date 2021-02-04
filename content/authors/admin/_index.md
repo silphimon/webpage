@@ -6,7 +6,7 @@ title: Silvia Montagna
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor in Statistics (RTD A, SSD: SECS-S/01)
+role: Assistant Professor in Statistics (RTD A)
 
 # Organizations/Affiliations to show in About widget
 organizations:
