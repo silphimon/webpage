@@ -73,4 +73,4 @@ I am Assistant Professor in Statistics at the Dipartimento di Scienze Economico-
 
 My research focuses primarily on the development of Bayesian models for the analysis of functional and longitudinal data. In particular, I am interested in methods to extract the low-dimensional structure in the data (latent factors, principal components, clustering), and flexible parametric and non-parametric modelling (bases expansions, Gaussian/spatial processes). Some highlight application areas are neuroimaging, sport analytics, -omics data, and causal inference.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
