@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+# Active page (true/false).
+active: true
+
 # This file represents a page section.
 headless: true
 
