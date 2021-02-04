@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: teaching
+widget: pages
 
 # Active page (true/false).
 active: true
