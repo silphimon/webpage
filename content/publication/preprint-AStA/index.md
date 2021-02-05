@@ -34,13 +34,13 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2101.08175.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code: 'https://github.com/PatricDolmeta/Bayesian-GARCH-Modeling-of-Functional-Sports-Data'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 
 # Slides (optional).
@@ -50,9 +50,3 @@ url_video: '#'
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
