@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Journal of the Royal Statistical Association, Series A*"
-publication_short: "JRSSA"
+publication_short: ""
 
 # abstract: 
 
