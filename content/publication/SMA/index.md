@@ -7,7 +7,7 @@ authors:
 
 
 date: "2020-06-22T00:00:00Z"
-doi: "10.1007/s10260-020-00535-5(0123456789().,-v"
+doi: "10.1007%2Fs10260-020-00535-5"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
