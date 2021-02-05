@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5682245/pdf/nihms870766.pdf
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5682245/pdf/nihms870766.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
