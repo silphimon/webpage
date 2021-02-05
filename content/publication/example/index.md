@@ -78,7 +78,7 @@ url_video: ''
 # slides: example
 
 
-title: "Bayesian Latent Factor Regression for Functional and Longitudinal Data"
+title: "Computer Emulation with Nonstationary Gaussian Processes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -86,11 +86,9 @@ title: "Bayesian Latent Factor Regression for Functional and Longitudinal Data"
 authors:
 - admin
 - Surya T. Tokdar
-- Brian Neelon
-- David B. Dunson
 
-date: "2012-12-01T00:00:00Z"
-doi: "10.1111/j.1541-0420.2012.01788.x"
+date: "2016-01-01T00:00:00Z"
+doi: "10.1137/141001512"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -99,10 +97,10 @@ doi: "10.1111/j.1541-0420.2012.01788.x"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Biometrics*
+publication: In *SIAM/ASA Journal on Uncertainty Quantification*
 # publication_short: In *ICW*
 
-# abstract: In studies involving functional data, it is commonly of interest to model the impact of predictors on the distribution of the curves, allowing flexible effects on not only the mean curve but also the distribution about the mean. Characterizing the curve for each subject as a linear combination of a high-dimensional set of potential basis functions, we place a sparse latent factor regression model on the basis coefficients. We induce basis selection by choosing a shrinkage prior that allows many of the loadings to be close to zero. The number of latent factors is treated as unknown through a highly-efficient, adaptive-blocked Gibbs sampler. Predictors are included on the latent variables level, while allowing different predictors to impact different latent factors. This model induces a framework for functional response regression in which the distribution of the curves is allowed to change flexibly with predictors. The performance is assessed through simulation studies and the methods are applied to data on blood pressure trajectories during pregnancy.
+# abstract: 
 
 tags: []
 
