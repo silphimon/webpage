@@ -22,8 +22,8 @@ doi: "10.1111/rssa.12569"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Research Synthesis Methods*"
-publication_short: ""
+publication: "In *Journal of the Royal Statistical Association, Series A*"
+publication_short: "JRSSA"
 
 # abstract: 
 
@@ -37,12 +37,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://www.repository.cam.ac.uk/bitstream/handle/1810/305378/rssa.12569.pdf?sequence=3&isAllowed=y
+url_pdf: https://www.repository.cam.ac.uk/bitstream/handle/1810/305378/rssa.12569.pdf?sequence=3&isAllowed=y
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://www.bayes-pharma.org/wp-content/uploads/2019/06/Session-1-3-Pantelis-Samartsidi.pdf'
 # url_source: ''
 # url_video: ''
 ---
