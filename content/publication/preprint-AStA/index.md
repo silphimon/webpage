@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+# - name: Custom Link
 #  url: http://example.org
 url_pdf: https://arxiv.org/pdf/2101.08175.pdf
 url_code: 'https://github.com/PatricDolmeta/Bayesian-GARCH-Modeling-of-Functional-Sports-Data'
