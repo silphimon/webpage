@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Assistant Professor in Statistics
-position: (ITA: RTD-A, 13/D1, SECS-S/01)
+position: RTD-A, 13/D1, SECS-S/01
 
 # Organizations/Affiliations to show in About widget
 organizations:
