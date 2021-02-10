@@ -1,24 +1,32 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: Statistical Machine Learning (MAT0043)
+linkTitle: SML
+summary: Introductory course to statistical machine learning, (mostly) focusing on supervised learning.
+date: '2020-09-22'
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+# {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
-
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
-
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+The course introduces methods and models to extract important patterns and trends from data, and presents basic concepts of machine learning and data mining from a statistical perspective. The course emphasizes selection of appropriate methods and justification of choice, use of programming for implementation of the method, and evaluation and effective communication of results in data analysis reports. 
+
+
+## What you will learn
+
+- Regression
+- Classification via logistic regression and $k$-nearest neighbors
+- Model selection (shrinkage and dimension reduction methods)
+- Polynomial regression, (regression/smoothing/thin-plate) splines, generalised additive models, kernels
+- Regression and classification trees (bagging, boosting, and random forests)
+- Support vector machines
+- Introduction to neural networks and deep learning
+
+We also cover important practical considerations such as assessing model performance (e.g., cross-validation) and the bias-variance trade-off. Labs will be implemented using R, but students are also free to use any other programming language of their choosing.
+
 
 ## Courses in this program
 
@@ -31,11 +39,11 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 ## FAQs
 
 {{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+Good knowledge of R (or another programming language) is required. There are no other prerequisites for this course, but students are encouraged to take [Statistical Inference](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=0b44) and [Multivariate Statistical Analysis](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=u23n) prior to this course.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="How often do this course run?" >}}
+Every Fall semester.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
