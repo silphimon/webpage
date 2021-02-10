@@ -1,6 +1,6 @@
 ---
 title: Statistical Machine Learning (MAT0043)
-linkTitle: SML
+linkTitle: MAT0043
 summary: Introductory course to statistical machine learning, (mostly) focusing on supervised learning.
 date: '2020-09-22'
 type: book
