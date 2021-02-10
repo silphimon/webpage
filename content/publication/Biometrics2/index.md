@@ -29,8 +29,9 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags:
-# - Source Themes
+tags: []
+
+# Display this page in the Featured widget?
 featured: true
 
 # links:
