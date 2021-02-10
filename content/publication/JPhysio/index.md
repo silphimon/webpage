@@ -27,8 +27,8 @@ publication_short: ""
 # summary: 
 
 tags:
-- Source Themes
-featured: false
+# - Source Themes
+featured: true
 
 # links:
 # - name: ""
