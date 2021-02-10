@@ -63,10 +63,10 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "silvia.montagna@unito.it"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am Assistant Professor in Statistics at the Dipartimento di Scienze Economico-sociali e Matematico-statistiche (ESOMAS) at the Università degli Studi di Torino, IT. Prior to joining Torino, I was lecturer in Statistics in the School of Mathematics, Statistics and Actuarial Science at the University of Kent, UK (2017), and post-doctoral research fellow in Statistics in the Department of Statistics at the University of Warwick, UK (2014-2017). I obtained a PhD in Statistical Science at Duke University (USA) in November 2013.
