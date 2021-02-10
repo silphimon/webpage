@@ -2,6 +2,9 @@
 title: Posts
 cms_exclude: true
 
+# Active
+active: false
+
 # View.
 #   1 = List
 #   2 = Compact
