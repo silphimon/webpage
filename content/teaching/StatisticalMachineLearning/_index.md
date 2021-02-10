@@ -28,9 +28,9 @@ The course introduces methods and models to extract important patterns and trend
 We also cover important practical considerations such as assessing model performance (e.g., cross-validation) and the bias-variance trade-off. Labs will be implemented using R, but students are also free to use any other programming language of their choosing.
 
 
-## Courses in this program
+# ## Courses in this program
 
-{{< list_children >}}
+# {{< list_children >}}
 
 ## Meet your instructor
 
