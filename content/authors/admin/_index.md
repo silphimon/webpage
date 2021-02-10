@@ -14,7 +14,7 @@ organizations:
   url: https://www.unito.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bayesian functional data analysis and dimensionality reduction techniques.
+bio: []
 
 # Interests to show in About widget
 interests:
