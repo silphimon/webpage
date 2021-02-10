@@ -26,7 +26,7 @@ Bayesian methods are increasingly popular in both industry and academia. The cou
 
 ## Meet your instructors
 
-{{< mention "admin" >}}
+{{< mention "admin" >}} \\
 {{< mention "[Matteo Ruggiero](https://www.matteoruggiero.it/)" >}}
 
 ## FAQs
