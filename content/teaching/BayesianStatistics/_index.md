@@ -13,7 +13,7 @@ type: book
 Bayesian methods are increasingly popular in both industry and academia. The course aims at providing a modern introduction to Bayesian statistical methods, covering the fundamentals of both the parametric and the nonparametric approach. This is a 48 hours-module, and I cover the first 24 hours on parametric Bayes modelling. Here you learn about the philosophy of the Bayesian approach as well as how to implement it for common types of data. We compare the Frequentist and Bayesian approaches, and appreciate some of the benefits of the latter (e.g., uncertainty quantification, more intuitive and interpretable results). The course also comprises a 24-hours module on non-parametric Bayes taught by [Prof. Ruggiero](https://www.matteoruggiero.it/). 
 
 
-## What you will learn
+## What you will learn (parametric Bayes)
 
 - Motivation and formal setting for the parametric Bayesian approach
 - Exchangeability and de Finetti's theorem
