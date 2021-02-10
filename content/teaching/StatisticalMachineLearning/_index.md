@@ -6,8 +6,6 @@ date: '2020-09-22'
 type: book
 ---
 
-# {{< figure src="featured.jpg" >}}
-
 {{< toc hide_on="xl" >}}
 
 ## Program overview
@@ -27,11 +25,6 @@ The course introduces methods and models to extract important patterns and trend
 
 We also cover important practical considerations such as assessing model performance (e.g., cross-validation) and the bias-variance trade-off. Labs will be implemented using R, but students are also free to use any other programming language of their choosing.
 
-
-# ## Courses in this program
-
-# {{< list_children >}}
-
 ## Meet your instructor
 
 {{< mention "admin" >}}
@@ -46,4 +39,8 @@ Good knowledge of R (or another programming language) is required. There are no 
 Every Fall semester.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+## Link to the course webpage
+
+Refer to the [course webpage](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=mb7n) for more information.
+
+
