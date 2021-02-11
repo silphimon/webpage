@@ -7,4 +7,5 @@ header:
   image: ""
 ---
 
-I teach the following courses for the Master of Science in [Stochastics and Data Science (Department of Mathematics "Peano")](https://www.master-sds.unito.it/do/home.pl):
+
+I teach the following courses for the Master of Science in [Stochastics and Data Science (Department of Mathematics ''Peano'')](https://www.master-sds.unito.it/do/home.pl):
