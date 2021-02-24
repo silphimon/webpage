@@ -44,3 +44,18 @@ The aim of this project is to perform a systematic literature review to expose t
 3)	Provide actionable and easy to implement guidelines for researchers to perform well powered fMRI studies
 
 The focus will be on the emerging field of organizational neuroscience. Optionally, it will be possible to review fMRI studies in this field and analyze their correctness in terms of power/sample size [Prochilo et al., 2019] (https://open.lnu.se/index.php/metapsychology/article/view/935).
+
+## Meet your advisor(s)
+
+This is a joint project with {{< mention "[Prof. Sebastiano Massaro](https://https://www.sebastianomassaro.com/)" >}} (Surrey, UK).
+
+## FAQs
+
+{{< spoiler text="Are there prerequisites?" >}}
+There are no requirements necessary to work on this project. However, having taken some statistics courses (at an undergraduate and/or graduate level) and being familiar with hypothesis testing and the concept of statistical power is certainly beneficial. Knoweledge of a programming language (e.g., R or Python) may also help, although this project does not directly involve any computing or programming. 
+{{< /spoiler >}}
+
+{{< spoiler text="How often do this course run?" >}}
+Every Fall semester.
+{{< /spoiler >}}
+
