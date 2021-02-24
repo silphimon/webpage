@@ -43,11 +43,11 @@ The aim of this project is to perform a systematic literature review to expose t
 
 3)	Provide actionable and easy to implement guidelines for researchers to perform well powered fMRI studies
 
-The focus will be on the emerging field of organizational neuroscience. Optionally, it will be possible to review fMRI studies in this field and analyze their correctness in terms of power/sample size [Prochilo et al., 2019](https://open.lnu.se/index.php/metapsychology/article/view/935).
+The focus will be on the emerging field of organizational neuroscience. Optionally, it will be possible to review fMRI studies in this field and analyze their correctness in terms of power/sample size ([Prochilo et al., 2019](https://open.lnu.se/index.php/metapsychology/article/view/935)).
 
 ## Meet your advisor(s)
 
-This is a joint project with {{< mention "[Prof. Sebastiano Massaro](https://https://www.sebastianomassaro.com/)" >}} (Surrey, UK).
+This is a joint project with {{< mention "admin" >}} and {{< mention "[Prof. Sebastiano Massaro](https://https://www.sebastianomassaro.com/)" >}} (Surrey, UK).
 
 ## FAQs
 
@@ -55,7 +55,11 @@ This is a joint project with {{< mention "[Prof. Sebastiano Massaro](https://htt
 This project is intended for MSc students with a quantitative background. Having taken some statistics courses (at an undergraduate and/or graduate level) and being familiar with hypothesis testing is certainly beneficial. That being said, there are no strict requirements necessary to work on this project. Knoweledge of a programming language (e.g., R or Python) also helps, although this project does not directly involve any computing or programming. 
 {{< /spoiler >}}
 
+{{< spoiler text="Are there any references?" >}}
+To become more familiar with this topic, please refer to [Lindquist, 2008](https://projecteuclid.org/journals/statistical-science/volume-23/issue-4/The-Statistical-Analysis-of-fMRI-Data/10.1214/09-STS282.full), [Durnez et al., 2016](https://www.biorxiv.org/content/10.1101/049429v1), and [Bossier et al., 2020](https://www.sciencedirect.com/science/article/pii/S1053811920300884). A more extensive list will be shared with the interested student.
+{{< /spoiler >}}
+
 {{< spoiler text="How long do I need to complete this project?" >}}
-This is difficult to say in general terms as it depends on the general standing of the student (e.g., background, motivation, remaining exams, other committments, etc.). However, we expect this thesis work could be completed in 2-3 months of solid work. 
+This is difficult to say in general terms as it depends on the general standing of the student (e.g., background, motivation, remaining exams, other committments, etc.). However, we expect this thesis project could be completed in 2-3 months of solid work. 
 {{< /spoiler >}}
 
