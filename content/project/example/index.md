@@ -1,6 +1,6 @@
 ---
 title: Statistical Power and Sample Size in fMRI.
-summary: Guidelines and Tutorial for Non-statisticians.
+summary: Review project aimed at exposing the issues related to statistical power and sample size in fMRI studies, and provide actionable guidelines/tutorials for the non-experts to address them.
 tags:
 - Statistical Power
 - Sample Size
