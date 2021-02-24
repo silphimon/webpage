@@ -1,6 +1,6 @@
 ---
 title: Statistical Power and Sample Size in fMRI: Guidelines and Tutorial for Non-statisticans.
-summary: 
+summary: ""
 tags:
 - Statistical Power
 - fMRI
