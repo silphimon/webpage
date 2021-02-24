@@ -52,10 +52,10 @@ This is a joint project with {{< mention "[Prof. Sebastiano Massaro](https://htt
 ## FAQs
 
 {{< spoiler text="Are there prerequisites?" >}}
-There are no requirements necessary to work on this project. However, having taken some statistics courses (at an undergraduate and/or graduate level) and being familiar with hypothesis testing and the concept of statistical power is certainly beneficial. Knoweledge of a programming language (e.g., R or Python) may also help, although this project does not directly involve any computing or programming. 
+This project is intended for MSc students with a quantitative background. Having taken some statistics courses (at an undergraduate and/or graduate level) and being familiar with hypothesis testing is certainly beneficial. That being said, there are no strict requirements necessary to work on this project. Knoweledge of a programming language (e.g., R or Python) also helps, although this project does not directly involve any computing or programming. 
 {{< /spoiler >}}
 
-{{< spoiler text="How often do this course run?" >}}
-Every Fall semester.
+{{< spoiler text="How long do I need to complete this project?" >}}
+This is difficult to say in general terms as it depends on the general standing of the student (e.g., background, motivation, remaining exams, other committments, etc.). However, we expect this thesis work could be completed in 2-3 months of solid work. 
 {{< /spoiler >}}
 
