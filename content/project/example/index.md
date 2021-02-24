@@ -1,6 +1,6 @@
 ---
-title: Statistical Power and Sample Size in fMRI: Guidelines and Tutorial for Non-statisticans.
-summary: An example of using the in-built project page.
+title: Statistical Power and Sample Size in fMRI.
+summary: Guidelines and Tutorial for Non-statisticans.
 tags:
 - Statistical Power
 date: "2021-02-24T00:00:00Z"
