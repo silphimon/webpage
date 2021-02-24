@@ -47,7 +47,7 @@ The focus will be on the emerging field of organizational neuroscience. Optional
 
 ## Meet your advisor(s)
 
-This is a joint project with {{< mention "admin" >}} and {{< mention "[Prof. Sebastiano Massaro](https://https://www.sebastianomassaro.com/)" >}} (Surrey, UK).
+This is a joint project with {{< mention "admin" >}} and {{< mention "[Prof. Sebastiano Massaro](https://www.sebastianomassaro.com/)" >}} (Surrey, UK).
 
 ## FAQs
 
