@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Projects
 type: page
 
 header:
@@ -8,4 +8,4 @@ header:
 ---
 
 
-I teach the following courses for the Master of Science in [Stochastics and Data Science (Department of Mathematics ''Peano'')](https://www.master-sds.unito.it/do/home.pl):
+Below I list some projects opportunities available to MSc students. Contact me if you are interested in working with me!
