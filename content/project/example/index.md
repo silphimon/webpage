@@ -1,24 +1,22 @@
 ---
 title: Statistical Power and Sample Size in fMRI: Guidelines and Tutorial for Non-statisticans.
-summary: ""
+summary: An example of using the in-built project page.
 tags:
 - Statistical Power
-- fMRI
-- Review
-date: "2021-02-23T00:00:00Z"
+date: "2021-02-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: ""
- focal_point: ""
+ caption: Photo by rawpixel on Unsplash
+ focal_point: Smart
 
 links:
-- icon: ""
+- icon: twitter
   icon_pack: fab
-  name: ""
-  url: ""
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
