@@ -3,6 +3,9 @@ title: Statistical Power and Sample Size in fMRI.
 summary: Guidelines and Tutorial for Non-statisticians.
 tags:
 - Statistical Power
+- Sample Size
+- fMRI
+- Review
 date: "2021-02-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -40,4 +43,4 @@ The aim of this project is to perform a systematic literature review to expose t
 
 3)	Provide actionable and easy to implement guidelines for researchers to perform well powered fMRI studies
 
-The focus will be on the emerging field of organizational neuroscience. Optionally, it will be possible to review fMRI studies in this field and analyze their correctness in terms of power/sample size [Prochilo et al., 2019 (https://open.lnu.se/index.php/metapsychology/article/view/935).
+The focus will be on the emerging field of organizational neuroscience. Optionally, it will be possible to review fMRI studies in this field and analyze their correctness in terms of power/sample size [Prochilo et al., 2019] (https://open.lnu.se/index.php/metapsychology/article/view/935).
