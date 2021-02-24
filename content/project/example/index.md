@@ -43,7 +43,7 @@ The aim of this project is to perform a systematic literature review to expose t
 
 3)	Provide actionable and easy to implement guidelines for researchers to perform well powered fMRI studies
 
-The focus will be on the emerging field of organizational neuroscience. Optionally, it will be possible to review fMRI studies in this field and analyze their correctness in terms of power/sample size [Prochilo et al., 2019] (https://open.lnu.se/index.php/metapsychology/article/view/935).
+The focus will be on the emerging field of organizational neuroscience. Optionally, it will be possible to review fMRI studies in this field and analyze their correctness in terms of power/sample size {{< mention "[Prochilo et al., 2019] (https://open.lnu.se/index.php/metapsychology/article/view/935)" >}}.
 
 ## Meet your advisor(s)
 
