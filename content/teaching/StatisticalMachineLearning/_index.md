@@ -19,7 +19,7 @@ The course introduces methods and models to extract important patterns and trend
 - Classification via logistic regression and $k$-nearest neighbors
 - Model selection (shrinkage and dimension reduction methods)
 - Polynomial regression, (regression/smoothing/thin-plate) splines, generalised additive models, kernels
-- Regression and classification trees (bagging, boosting, and random forests)
+- Regression/classification trees and ensemble methods
 - Support vector machines
 - Introduction to neural networks and deep learning
 
