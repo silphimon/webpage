@@ -35,7 +35,7 @@ We also cover important practical considerations such as assessing model perform
 Good knowledge of R (or another programming language) is required. There are no other prerequisites for this course, but students are encouraged to take [Statistical Inference](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=0b44) and [Multivariate Statistical Analysis](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=u23n) prior to this course.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do this course run?" >}}
+{{< spoiler text="How often does this course run?" >}}
 Every Fall semester.
 {{< /spoiler >}}
 
