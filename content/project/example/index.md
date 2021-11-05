@@ -60,6 +60,6 @@ To become more familiar with this topic, please refer to [Lindquist, 2008](https
 {{< /spoiler >}}
 
 {{< spoiler text="How long do I need to complete this project?" >}}
-This is difficult to say in general terms as it depends on the general standing of the student (e.g., background, motivation, remaining exams, other committments, etc.). However, we expect this thesis project could be completed in 2-3 months of solid work. 
+This is difficult to say in general terms as it depends on the general standing of the student (e.g., background, motivation, remaining exams, other commitments, etc.). However, we expect this thesis project could be completed in 2-3 months of solid work. 
 {{< /spoiler >}}
 
