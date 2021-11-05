@@ -35,7 +35,7 @@ Bayesian methods are increasingly popular in both industry and academia. The cou
 [Stochastic Modelling for Statistical Applications (MAT0039)](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=lrta)
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the course run?" >}}
+{{< spoiler text="How often does the course run?" >}}
 Every Fall semester
 {{< /spoiler >}}
 
