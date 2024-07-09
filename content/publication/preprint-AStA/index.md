@@ -33,8 +33,8 @@ featured: true
 
 links:
 # - name: Custom Link
-url: link.springer.com/article/10.1007/s10260-022-00656-z
-# url_pdf: 
+# url: 
+url_pdf: https://link.springer.com/article/10.1007/s10260-022-00656-z
 url_code: https://github.com/PatricDolmeta/Bayesian-GARCH-Modeling-of-Functional-Sports-Data
 # url_dataset: '#'
 # url_poster: '#'
