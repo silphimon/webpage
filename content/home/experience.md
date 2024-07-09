@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor in Statistics (RTD-B)
+    company: Dipartimento di Economia Marco Biagi, Università degli Studi di Modena e Reggio Emilia
+    company_url: 'https://personale.unimore.it/Rubrica/dettaglio/simontag'
+    location: Modena, Italy
+    date_start: '2024-09-01'
+    date_end: ''
+    
   - title: Assistant Professor in Statistics
     company: ESOMAS Department, Università degli Studi di Torino
     company_url: 'https://www.esomas.unito.it/do/docenti.pl/Alias?silvia.montagna#tab-profilo'
     location: Torino, Italy
     date_start: '2017-12-22'
-    date_end: ''
+    date_end: '2023-08-31'
         
   - title: Lecturer
     company: School of Mathematics, Statistics and Actuarial Science, University of Kent
