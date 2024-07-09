@@ -6,12 +6,12 @@ title: Silvia Montagna
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor in Statistics
+role: Assistant Professor in Statistics (RTD-B)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Università degli Studi di Torino
-  url: https://www.unito.it
+- name: Università degli Studi di Modena e Reggio Emilia
+  url: https://www.unimore.it/it
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
@@ -63,13 +63,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "silvia.montagna@unito.it"
+email: "silvia.montagna@unimore.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am Assistant Professor in Statistics at the Dipartimento di Scienze Economico-sociali e Matematico-statistiche (ESOMAS), Università degli Studi di Torino (IT). Prior to joining Torino, I was lecturer in Statistics in the School of Mathematics, Statistics and Actuarial Science at the University of Kent (2017), and post-doctoral research fellow in Statistics at the Department of Statistics, University of Warwick (2014-2016). I obtained a PhD in Statistical Science from Duke University in November 2013.
+I am Assistant Professor in Statistics (RTD-B) at the Dipartimento di Economia Marco Biagi, Università degli Studi di Modena e Reggio Emilia (Unimore). Prior to joining Unimore, I was Assistant Professor in Statistics at Università degli Studi di Torino (2018-2023), lecturer in Statistics in the School of Mathematics, Statistics and Actuarial Science at the University of Kent (2017), and post-doctoral research fellow in Statistics at the Department of Statistics, University of Warwick (2014-2016). I obtained a PhD in Statistical Science from Duke University in November 2013.
 
 My research focuses primarily on the development of Bayesian models for the analysis of functional and longitudinal data. In particular, I am interested in methods to extract the low-dimensional structure in the data (latent factors, principal components, clustering), and flexible parametric and non-parametric modelling (bases expansions, Gaussian/spatial processes). Some highlight application areas are neuroimaging, sport analytics, -omics data, and causal inference.
 
