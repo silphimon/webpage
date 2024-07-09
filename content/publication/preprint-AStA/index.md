@@ -15,7 +15,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -33,8 +33,8 @@ featured: true
 
 links:
 # - name: Custom Link
-#  url: http://example.org
-url_pdf: https://arxiv.org/pdf/2101.08175.pdf
+url: 'https://link.springer.com/article/10.1007/s10260-022-00656-z'
+url_pdf: 'file:///Users/silviamontagna/Downloads/s10260-022-00656-z.pdf'
 url_code: 'https://github.com/PatricDolmeta/Bayesian-GARCH-Modeling-of-Functional-Sports-Data'
 # url_dataset: '#'
 # url_poster: '#'
