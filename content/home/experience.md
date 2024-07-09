@@ -26,7 +26,7 @@ experience:
     company: Dipartimento di Economia Marco Biagi, Università degli Studi di Modena e Reggio Emilia
     company_url: 'https://personale.unimore.it/Rubrica/dettaglio/simontag'
     location: Modena, Italy
-    date_start: '2024-09-01'
+    date_start: '2023-09-01'
     date_end: ''
     
   - title: Assistant Professor in Statistics
