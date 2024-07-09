@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "In *Research Synthesis Methods*"
 publication_short: ""
 
-# abstract: 
+abstract: Coordinate-based meta-analyses (CBMA) allow researchers to combine the results from multiple functional magnetic resonance imaging experiments with the goal of obtaining results that are more likely to generalize. However, the interpretation of CBMA findings can be impaired by the file drawer problem, a type of publication bias that refers to experiments that are carried out but are not published. Using foci per contrast count data from the BrainMap database, we propose a zero-truncated modeling approach that allows us to estimate the prevalence of nonsignificant experiments. We validate our method with simulations and real coordinate data generated from the Human Connectome Project. Application of our method to the data from BrainMap provides evidence for the existence of a file drawer effect, with the rate of missing experiments estimated as at least 6 per 100 reported. The R code that we used is available at https://osf.io/ayhfv/.
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -39,7 +39,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jrsm.1448
-# url_code: ''
+url_code: 'https://osf.io/ayhfv/'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
