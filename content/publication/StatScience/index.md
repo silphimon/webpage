@@ -6,7 +6,7 @@ authors:
 - Timothy D. Johnson
 - Thomas E. Nichols
 
-date: "2017-09-01T00:00:00Z"
+date: "2017-11-01T00:00:00Z"
 doi: "10.1214/17-STS624"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,13 @@ publication_types: ["2"]
 publication: "In *Statistical Science*"
 publication_short: ""
 
-# abstract: 
+abstract: Neuroimaging meta-analysis is an area of growing interest in
+statistics. The special characteristics of neuroimaging data render classical
+meta-analysis methods inapplicable and therefore new methods have been
+developed. We review existing methodologies, explaining the benefits and
+drawbacks of each. A demonstration on a real dataset of emotion studies is
+included. We discuss some still-open problems in the field to highlight the
+need for future research.
 
 # Summary. An optional shortened abstract.
 # summary: 
