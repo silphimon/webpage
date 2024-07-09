@@ -6,7 +6,7 @@ title: Silvia Montagna
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor in Statistics (RTD-B)
+role: Assistant Professor in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
