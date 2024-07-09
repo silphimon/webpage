@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "silvia.montagna@unito.it"
+email = "silvia.montagna@unimore.it"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "C.so Unione Sovietica, 218/bis", city = "Torino", region = "", postcode = "10134", country = "Italy", country_code = "IT"}
+address = {street = "Via Jacopo Berengario, 51", city = "Modena", region = "", postcode = "41121", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.0387", longitude = "7.6523"} 
+coordinates = {latitude = "44.650", longitude = "10.923"} 
 
 # Directions for visitors to locate you.
-directions = "Office 5.22 on Floor 5"
+directions = "Office 38 Ala Ovest"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
