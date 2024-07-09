@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "In *Journal of the Royal Statistical Association, Series A*"
 publication_short: ""
 
-# abstract: 
+abstract: A problem that is frequently encountered in many areas of scientific research is that of estimating the effect of a non-randomized binary intervention on an outcome of interest by using time series data on units that received the intervention (‘treated’) and units that did not (‘controls’). One popular estimation method in this setting is based on the factor analysis (FA) model. The FA model is fitted to the preintervention outcome data on treated units and all the outcome data on control units, and the counterfactual treatment-free post-intervention outcomes of the former are predicted from the fitted model. Intervention effects are estimated as the observed outcomes minus these predicted counterfactual outcomes. We propose a model that extends the FA model for estimating intervention effects by jointly modelling the multiple outcomes to exploit shared variability, and assuming an auto-regressive structure on factors to account for temporal correlations in the outcome. Using simulation studies, we show that the method proposed can improve the precision of the intervention effect estimates and achieve better control of the type I error rate (compared with the FA model), especially when either the number of preintervention measurements or the number of control units is small. We apply our method to estimate the effect of stricter alcohol licensing policies on alcohol-related harms.
 
 # Summary. An optional shortened abstract.
 # summary: 
