@@ -38,8 +38,8 @@ featured: true
 
 # links:
 # name: Custom Link
-url: 'www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30'
-url_pdf: ''
+# url: 'www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30'
+url_pdf: 'https://www.economia.unimore.it/sites/dip05/files/2024-02/Locandina%20Statistica%20per%20tutti%20-%20Fase%203.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
