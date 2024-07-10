@@ -38,12 +38,12 @@ featured: true
 
 # links:
 # - name: ""
-url: "www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30"
-# url_pdf: 'https://www.svqs.it/wp-content/uploads/2023/07/IES2023BookShortPaper.pdf'
+# url: "www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30"
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30'
 url_slides: ''
 url_source: ''
 url_video: ''
