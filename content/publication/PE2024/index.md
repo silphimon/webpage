@@ -38,15 +38,15 @@ featured: true
 
 # links:
 - name: Custom Link
-url: https://www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url: 'https://www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30'
+url_pdf: '#'
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: '#'
+url_slides: '#'
+url_source: '#'
+url_video: '#'
 
 
 # Associated Projects (optional).
