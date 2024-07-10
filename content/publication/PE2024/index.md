@@ -34,11 +34,11 @@ publication_short: ""
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # links:
 - name: Custom Link
-url: 'https://www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30'
+url: 'www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30'
 url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
