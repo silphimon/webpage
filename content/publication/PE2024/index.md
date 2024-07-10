@@ -38,7 +38,7 @@ featured: true
 
 # links:
 # - name: ""
-url: "https://www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30"
+url: "www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30"
 # url_pdf: 'https://www.svqs.it/wp-content/uploads/2023/07/IES2023BookShortPaper.pdf'
 url_code: ''
 url_dataset: ''
