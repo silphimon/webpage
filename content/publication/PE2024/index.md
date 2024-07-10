@@ -38,7 +38,7 @@ featured: true
 
 # links:
 # name: Custom Link
-url: 'https://www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30'
+url: 'http://www.economia.unimore.it/it/tutte-le-notizie/statistica-tutti-30'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
