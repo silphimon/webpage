@@ -2,7 +2,7 @@
 title: Statistica
 linkTitle: EC-ST01
 summary: Introductory course to descriptive statistics, probability, statistical inference, and linear regression.
-date: '2024-09-24'
+date: '2023-09-25'
 type: book
 ---
 
