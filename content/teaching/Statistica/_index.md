@@ -1,6 +1,6 @@
 ---
 title: Statistica
-linkTitle: EC-ST01
+linkTitle: Statistica
 summary: Introductory course to descriptive statistics, probability, statistical inference, and linear regression.
 date: '2023-09-25'
 type: book
