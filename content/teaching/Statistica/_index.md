@@ -8,9 +8,9 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-## Bachelor's Degree Programme
+## Bachelor's degree programme
 
-I teach this course for the Laurea Triennale (BSc) in [International Economics and Marketing (CLEMI)](https://www.economia.unimore.it/en/education/bachelors-degree-programmes/international-economics-and-marketing) at Unimore. The course is taught in Italian.
+I teach this course for the Laurea Triennale (BSc) programme in [International Economics and Marketing (CLEMI)](https://www.economia.unimore.it/en/education/bachelors-degree-programmes/international-economics-and-marketing) at Unimore. The course is taught in Italian.
 
 ## Program overview
 
