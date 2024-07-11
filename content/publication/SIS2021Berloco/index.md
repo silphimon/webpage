@@ -32,17 +32,17 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-links:
-- name: ""
-url: books.fupress.com/catalogue/cladag-2021-book-of-abstracts-and-short-papers/7254
-url_pdf: media.fupress.com/files/pdf/24/7254/19407
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: '#'
-url_slides: '#'
-url_source: '#'
-url_video: '#'
+# links:
+# - name: ""
+url: ''
+url_pdf: '' 
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 
 # Associated Projects (optional).
