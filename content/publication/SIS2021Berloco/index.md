@@ -33,9 +33,9 @@ tags: []
 featured: true
 
 links:
-# - name: ""
-url: http://books.fupress.com/catalogue/cladag-2021-book-of-abstracts-and-short-papers/7254
-url_pdf: https://media.fupress.com/files/pdf/24/7254/19407
+- name: ""
+url: "http://books.fupress.com/catalogue/cladag-2021-book-of-abstracts-and-short-papers/7254"
+url_pdf: "https://media.fupress.com/files/pdf/24/7254/19407"
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
