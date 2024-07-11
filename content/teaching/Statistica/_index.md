@@ -1,7 +1,7 @@
 ---
 title: Statistica
 linkTitle: Statistica
-summary: Introductory course to descriptive statistics, probability, statistical inference, and linear regression.
+summary: Introductory course on topics in descriptive statistics, probability, statistical inference, and linear regression.
 date: '2023-09-25'
 type: book
 ---
