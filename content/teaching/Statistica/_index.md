@@ -1,7 +1,7 @@
 ---
 title: Statistica
 linkTitle: Statistica
-summary: Introductory course on topics in descriptive statistics, probability, statistical inference, and linear regression.
+summary: Introductory level course that aims to provide some probability and statistics background needed for students to go on to study advanced quantitative analyses in the natural and social sciences, financial statistics, and so on.
 date: '2023-09-25'
 type: book
 ---
@@ -20,7 +20,8 @@ The course introduces students to concepts in descriptive statistics, probabilit
 ## What you will learn
 
 - Descriptive statistics (e.g., data collection, data matrix, synthesis of the distribution of one/two variable(s), relationship between two variables, etc.)
-- Probability and random variables
+- Basic laws of probability, random events, independence, expectations
+- Discrete (Uniform, Bernoulli and Binomial) and continuous (Gaussian, $t$) random variables, probability density and mass functions and distribution functions
 - Statistical inference (sampling theory, point and interval estimation, hypothesis testing)
 - The simple linear regression model
 
@@ -32,7 +33,7 @@ The course introduces students to concepts in descriptive statistics, probabilit
 ## FAQs
 
 {{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for this course, but students are encouraged to take General and Financial Mathematics (CLEMI BSc program) prior to this course.
+Students are encouraged to take General and Financial Mathematics (CLEMI BSc program) prior to this course. Students must have some background in differential and integral calculus. Specifically, you should be able to take derivatives and integrals of standard functions (exponential, polynomials, logarithms). You should also understand the basic applications of calculus (finding areas under curves, maximizing/minimizing functions, etc.).
 {{< /spoiler >}}
 
 {{< spoiler text="How often does this course run?" >}}
